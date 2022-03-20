@@ -1,0 +1,10 @@
+{
+    "scripts": {
+        "dev": "next dev",
+        "build": "next build",
+        "prod": "next start"
+    },
+    "dependencies": {
+        "next": "^12.1.0"
+    }
+}
